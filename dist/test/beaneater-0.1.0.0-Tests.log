@@ -1,0 +1,14 @@
+Test suite Tests: RUNNING...
+Sanity Checks:
+  Sanity: [OK]
+  Sanity2: [Failed]
+I don't even know what I'm doing
+expected: 3
+ but got: 4
+
+         Test Cases  Total      
+ Passed  1           1          
+ Failed  1           1          
+ Total   2           2          
+Test suite Tests: FAIL
+Test suite logged to: dist/test/beaneater-0.1.0.0-Tests.log
