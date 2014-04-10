@@ -1,0 +1,9 @@
+/.cabal-sandbox
+/dist
+/dist/build/beaneater/beaneater-tmp/Main.o
+/dist/setup-config
+/dist/test/beaneater-0.1.0.0-Tests.log
+/dist/test/beaneater-0.1.0.0.log
+/dist/build/autogen/cabal_macros.h
+/dist/build/autogen/cabal_macros.h
+/dist/build/beaneater/beaneater
